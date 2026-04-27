@@ -4,6 +4,16 @@ Bu proje, **Semantic Kernel** kullanarak **Strapi CMS** ile Yapay Zeka modelleri
 
 Sistem, stok seviyelerini otonom olarak denetler, düşük stoklu ürünleri analiz eder ve bu verileri kullanarak otomatik kampanya içerikleri oluşturup tekrar Strapi üzerine kaydeder.
 
+
+## Demo
+
+<img width="1019" height="568" alt="image" src="https://github.com/user-attachments/assets/cef9f003-00b5-4e73-8d95-f92c8aab95e7" />
+
+<img width="1021" height="403" alt="image" src="https://github.com/user-attachments/assets/317314b5-98c0-4af4-a471-7c29b67816e7" />
+
+
+## --- 
+
 ## 🛠 Teknik Yetenekler (Tech Stack)
 
 * **Orchestration:** [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)
@@ -33,3 +43,7 @@ Projenin çalışması için gerekli temel paketler:
 ```bash
 dotnet add package Microsoft.SemanticKernel
 dotnet add package Microsoft.SemanticKernel.Connectors.Google --prerelease
+
+```
+
+
