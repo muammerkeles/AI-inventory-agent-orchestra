@@ -1,7 +1,39 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\agent\\orchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:agent\\orchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|c:\\users\\muammer\\source\\repos\\free\\github\\ai-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{30D4B892-FD7F-DD4F-4879-205906E3DB01}|ai-agent-demo.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,6 +138,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:03:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T18:59:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CampaignController.cs",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Controllers\\CampaignController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CampaignController.cs",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Controllers\\CampaignController.cs",
+              "RelativeToolTip": "Controllers\\CampaignController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:53:54.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Agent\\Orchestrator.cs",
+              "RelativeDocumentMoniker": "Agent\\Orchestrator.cs",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Agent\\Orchestrator.cs",
+              "RelativeToolTip": "Agent\\Orchestrator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:48:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:44:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-27T18:44:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-27T18:44:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-27T18:37:50.461Z",
+              "EditorCaption": ""
             }
           ]
         }

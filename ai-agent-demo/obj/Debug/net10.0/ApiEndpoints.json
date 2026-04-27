@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "BoFrontend.Controllers.CampaignController",
+    "Method": "StartProcess",
+    "RelativePath": "api/Campaign/trigger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "TriggerCampaign"
+  }
+]
