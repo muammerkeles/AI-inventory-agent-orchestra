@@ -6,9 +6,10 @@ Sistem, stok seviyelerini otonom olarak denetler, düşük stoklu ürünleri ana
 
 
 ## Demo
-
+### Uygulamayı Başlatın (F5) ve Buttona basın
 <img width="1019" height="568" alt="image" src="https://github.com/user-attachments/assets/cef9f003-00b5-4e73-8d95-f92c8aab95e7" />
 
+### Agent tetiklenir (çalışır). Sonuçları ekrana getirir.
 <img width="1021" height="403" alt="image" src="https://github.com/user-attachments/assets/317314b5-98c0-4af4-a471-7c29b67816e7" />
 
 
