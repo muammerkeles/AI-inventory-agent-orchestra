@@ -65,7 +65,7 @@ namespace ai_agent_demo.Agent
         public async Task<string> GetProducts()
         {
             // Strapi'den ürünleri çekme mantığı
-            var response = await _client.GetFromJsonAsync<dynamic>("agent-orhcestrations");
+            var response = await _client.GetFromJsonAsync<dynamic>("products");
             return response?.ToString() ?? "Ürün bulunamadı";
         }
 
@@ -73,7 +73,7 @@ namespace ai_agent_demo.Agent
         public async Task SaveToStrapi([Description("Oluşturulan kampanya başlığı veya içeriği")] string title)
         {
             /// Ben koymadım ama buraya bir exception handler koymakta fayda var, çünkü dış bir servise istek atıyoruz ve bu işlem başarısız olabilir. Ayrıca, Strapi'nin beklediği veri formatına göre body'yi düzenlemek gerekebilir.
-            await _client.PostAsJsonAsync("ao-campaign", new { data = new { Title = title, Statuss = "draft" } });
+            await _client.PostAsJsonAsync("campaigns", new { data = new { Title = title, Statuss = "draft" } });
         }
     }
 }
