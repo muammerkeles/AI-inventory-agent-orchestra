@@ -149,8 +149,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T19:03:47.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T19:03:47.659Z"
             },
             {
               "$type": "Document",
@@ -162,8 +161,7 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T18:59:51.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:59:51.964Z"
             },
             {
               "$type": "Document",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "Controllers\\CampaignController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:53:54.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:53:54.127Z"
             },
             {
               "$type": "Document",
@@ -186,7 +183,7 @@
               "RelativeDocumentMoniker": "Agent\\Orchestrator.cs",
               "ToolTip": "C:\\Users\\Muammer\\source\\repos\\Free\\Github\\AI-inventory-agent-orchestra\\ai-agent-demo\\Agent\\Orchestrator.cs",
               "RelativeToolTip": "Agent\\Orchestrator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T18:48:31.52Z",
               "EditorCaption": ""
@@ -201,8 +198,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:44:46.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:44:46.288Z"
             },
             {
               "$type": "Document",
@@ -214,8 +210,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-27T18:44:28.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:44:28.609Z"
             },
             {
               "$type": "Document",
@@ -227,8 +222,7 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-27T18:44:26.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:44:26.288Z"
             },
             {
               "$type": "Document",
@@ -240,8 +234,7 @@
               "RelativeToolTip": "..\\README.md",
               "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-27T18:37:50.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:37:50.461Z"
             }
           ]
         }
