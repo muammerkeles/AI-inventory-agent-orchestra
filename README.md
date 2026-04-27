@@ -12,7 +12,16 @@ Sistem, stok seviyelerini otonom olarak denetler, düşük stoklu ürünleri ana
 <img width="1021" height="403" alt="image" src="https://github.com/user-attachments/assets/317314b5-98c0-4af4-a471-7c29b67816e7" />
 
 
-## --- 
+## 🚀 Strapi Content Type
+### Product
+ <img width="638" height="407" alt="image" src="https://github.com/user-attachments/assets/737fe235-e6be-4d96-a32f-c96295c00506" />
+
+
+### Campaign
+ <img width="629" height="337" alt="image" src="https://github.com/user-attachments/assets/ee8a89fa-5fba-4164-9abd-b4f994de613b" />
+
+
+ 
 
 ## 🛠 Teknik Yetenekler (Tech Stack)
 
